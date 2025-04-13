@@ -1,4 +1,4 @@
-<!-- filepath: c:\xampp2\htdocs\tony\getpassword.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
